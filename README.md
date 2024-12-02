@@ -1,7 +1,15 @@
-Hejsan och välkomen till mitt Github-konto!
+# Hejsan och välkommen till mitt Github-konto! 
 
-Mitt namn är Izabel Weatherly, jag är en glad och trevlig tjej på 25 år. 
-Jag är bosatt i skåne med min sambo, våra hundar och marsvin. 
+## Mitt namn är _Izabel Weatherly_ 
+Jag är en glad och trevlig tjej på **25** år och är bosatt i skåne med min sambo, våra hundar och marsvin. 
+
+### Mina djur heter: 
+* **Alice**
+* **Lexie** 
+* **Kanel** 
+* **Kokos**
+
+#### Min tidigare utbildning och min väg hit
 
 Jag gick kockutbildning på gymnasiet men insåg efter avslutade studier att det inte alls var något jag ville arbeta med, så jag påbörjade en lång process med att 
 försöka lista ut vad det var jag egentligen ville göra. Efter ett par år kom jag fram till att jag ville bli webbutvecklare och grafisk designer. Så nu studerar jag till att
@@ -10,10 +18,10 @@ Att jag valde just detta yrke är för att det passar mig bra som person då det
 Både webbutveckling och grafisk design kräver endast en dator och bra internet uppkoppling sen kan man sitta var som helst i världen och arbeta och den typen av 
 flexibilitet och frihet är något jag sökt efter i val av yrke. 
 
-Min dröm är att skaffa en campervan eller husbil och sedan resa världen runt och med ett vanligt jobb är den drömmen svår att uppnå men med detta yrekt så kan 
-jag jobba från vart som. 
+Min dröm är att skaffa en campervan eller husbil och sedan resa världen runt och med ett "vanligt" jobb är den drömmen svår att uppnå men med detta yrekt så kan 
+jag jobba från vart som helst. 
 
-// Izabel
+// **Izabel**
 
 
 
